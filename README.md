@@ -5,6 +5,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/ResolutionChecker.svg?style=flat)](http://cocoapods.org/pods/ResolutionChecker)
 ![](https://img.shields.io/badge/Supported-iOS9-4BC51D.svg?style=flat)
 ![](https://img.shields.io/badge/Swift4-compatible-4BC51D.svg?style=flat)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
 Easy to detect iOS device or version in your code
 
@@ -23,10 +24,18 @@ Easy to detect iOS device or version in your code
 - Swift 4
 
 ## Installation
+ResolutionChecker can be installed in various ways.
+### Cocoapods
 ```ruby
 pod 'ResolutionChecker'
 ```
-## Manually 
+### Carthage
+
+```ogdl
+github "jack3010/ResolutionChecker" ~> 0.1.0
+```
+
+### Manually 
 To install manually drag and drop ResolutionChecker into your project in Xcode or add it as a submodule.In your project folder enter: 
 ```ogdl
 $ git submodule add https://github.com/jack3010/ResolutionChecker.git
