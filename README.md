@@ -28,7 +28,7 @@ pod 'ResolutionChecker'
 ```
 ## Manually 
 To install manually drag and drop ResolutionChecker into your project in Xcode or add it as a submodule.In your project folder enter: 
-```ruby
+```ogdl
 $ git submodule add https://github.com/jack3010/ResolutionChecker.git
 ```
 
