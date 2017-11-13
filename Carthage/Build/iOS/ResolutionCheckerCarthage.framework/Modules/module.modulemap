@@ -1,0 +1,11 @@
+framework module ResolutionCheckerCarthage {
+  umbrella header "ResolutionCheckerCarthage.h"
+
+  export *
+  module * { export * }
+}
+
+module ResolutionCheckerCarthage.Swift {
+    header "ResolutionCheckerCarthage-Swift.h"
+    requires objc
+}
