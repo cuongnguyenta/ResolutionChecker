@@ -1,0 +1,6 @@
+language: swift
+osx_image: xcode9
+
+notifications:
+  email:
+    - cuongnt04230@gmail.com
