@@ -22,6 +22,16 @@ Easy to detect iOS device or version in your code
 - Xcode 9
 - Swift 4
 
+## Installation
+```ruby
+pod 'ResolutionChecker'
+```
+## Manually 
+To install manually drag and drop ResolutionChecker into your project in Xcode or add it as a submodule.In your project folder enter: 
+```ruby
+$ git submodule add https://github.com/jack3010/ResolutionChecker.git
+```
+
 ### Check screen orientation
 If you want to check status of device when the device rotate. You can type a command: 
 
@@ -69,5 +79,7 @@ if Screen.screen_3_5_inch < Screen.screen_4_0_inch {
 
 - [x] Compare version iOS.
 
+### Contributing
+If you have the need for a specific feature that you want implemented or if you experienced a bug, please open an issue. If you extended the functionality of `ResolutionChecker` yourself and want others to use it too, please submit a pull request.
 
 
