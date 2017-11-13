@@ -1,15 +1,18 @@
 # Apple Devices Resolutions Checker
 [![Build Status](https://travis-ci.org/jack3010/Apple-Devices-Resolutions-Checker.svg?branch=master)](https://travis-ci.org/jack3010/Apple-Devices-Resolutions-Checker)
+[![Version](https://img.shields.io/cocoapods/v/ResolutionChecker.svg?style=flat)](http://cocoapods.org/pods/ResolutionChecker)
+[![License](https://img.shields.io/cocoapods/l/ResolutionChecker.svg?style=flat)](http://cocoapods.org/pods/ResolutionChecker)
+[![Platform](https://img.shields.io/cocoapods/p/ResolutionChecker.svg?style=flat)](http://cocoapods.org/pods/ResolutionChecker)
 
 Easy to detect iOS device or version in your code
 
 ## Features
 
-- [x] [Check screen orientation](https://github.com/jack3010/Apple-Devices-Resolutions-Checker#check-screen-orientation)
-- [x] [Detect device type](https://github.com/jack3010/Apple-Devices-Resolutions-Checker#detect-device-type)
-- [x] [Detect device version](https://github.com/jack3010/Apple-Devices-Resolutions-Checker#detect-device-version)
-- [x] [Check iPhone/iPad/Simulator](https://github.com/jack3010/Apple-Devices-Resolutions-Checker#check-iphone/ipad/simulator)
-- [x] [Detect iOS version](https://github.com/jack3010/Apple-Devices-Resolutions-Checker#detect-ios-version)
+- [x] [Check screen orientation](https://github.com/jack3010/ResolutionChecker#check-screen-orientation)
+- [x] [Detect device type](https://github.com/jack3010/ResolutionChecker#detect-device-type)
+- [x] [Detect device version](https://github.com/jack3010/ResolutionChecker#detect-device-version)
+- [x] [Check iPhone/iPad/Simulator](https://github.com/jack3010/ResolutionChecker#check-iphone/ipad/simulator)
+- [x] [Detect iOS version](https://github.com/jack3010/ResolutionChecker#detect-ios-version)
 
 ## Requirements
 
