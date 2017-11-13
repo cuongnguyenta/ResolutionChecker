@@ -1,5 +1,5 @@
 # Apple Devices Resolutions Checker
-[![Build Status](https://travis-ci.org/jack3010/Apple-Devices-Resolutions-Checker.svg?branch=master)](https://travis-ci.org/jack3010/Apple-Devices-Resolutions-Checker)
+[![Build Status](https://travis-ci.org/jack3010/ResolutionChecker.svg?branch=master)](https://travis-ci.org/jack3010/ResolutionChecker)
 [![Version](https://img.shields.io/cocoapods/v/ResolutionChecker.svg?style=flat)](http://cocoapods.org/pods/ResolutionChecker)
 [![License](https://img.shields.io/cocoapods/l/ResolutionChecker.svg?style=flat)](http://cocoapods.org/pods/ResolutionChecker)
 [![Platform](https://img.shields.io/cocoapods/p/ResolutionChecker.svg?style=flat)](http://cocoapods.org/pods/ResolutionChecker)
