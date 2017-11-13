@@ -3,6 +3,8 @@
 [![Version](https://img.shields.io/cocoapods/v/ResolutionChecker.svg?style=flat)](http://cocoapods.org/pods/ResolutionChecker)
 [![License](https://img.shields.io/cocoapods/l/ResolutionChecker.svg?style=flat)](http://cocoapods.org/pods/ResolutionChecker)
 [![Platform](https://img.shields.io/cocoapods/p/ResolutionChecker.svg?style=flat)](http://cocoapods.org/pods/ResolutionChecker)
+![](https://img.shields.io/badge/Supported-iOS9-4BC51D.svg?style=flat)
+![](https://img.shields.io/badge/Swift4-compatible-4BC51D.svg?style=flat)
 
 Easy to detect iOS device or version in your code
 
